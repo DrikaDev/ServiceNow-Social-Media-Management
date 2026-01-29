@@ -1,4 +1,4 @@
-## 🦈 Desafio 3º temporada Shark Evolution – Aoop - ServiceNow
+## 🦈 Desafio 3º temporada Shark Evolution – Aoop
 
 Este repositório contém a solução desenvolvida do desafio do processo seletivo/avaliativo do programa **Shark Evolution / Shark Academy – ServiceNow**.
 
