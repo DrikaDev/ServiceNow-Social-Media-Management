@@ -18,14 +18,14 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_980413_social_0.social_analyst,x_980413_social_0.social_manager</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-01-24 14:34:15</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3843a90f8362761014da99c0deaad380</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Create new</sys_name>
         <sys_overrides/>
         <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
         <sys_update_name>sys_app_module_3843a90f8362761014da99c0deaad380</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-01-24 17:14:14</sys_updated_on>
+        <sys_updated_on>2026-02-03 19:49:22</sys_updated_on>
         <timeline_page/>
         <title>Create new</title>
         <uncancelable>false</uncancelable>
