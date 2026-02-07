@@ -6,14 +6,16 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
-        <checked_out>true</checked_out>
+        <category/>
+        <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description/>
+        <description><![CDATA[<p>Please fill in the fields to create your post suggestion.</p>
+<p><strong>NOTE:</strong> You can also do the same using Core UI/Classic Environment.</p>
+<p>This is just an alternative view to simplify the process. </p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -31,7 +33,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Social Media Aoop</name>
+        <name>New Social Media Post</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -70,7 +72,7 @@
 * To access the variables, use `producer.var1` where var1 is the name of the variable
 * To access the Record Producer use `cat_item`
 */]]></save_script>
-        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4,fdeff7178326321014da99c0deaad31c</sc_catalogs>
+        <sc_catalogs/>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template display_value="">2ba8c10b9320221014d63b9534891887</sc_template>
@@ -81,7 +83,7 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */]]></script>
-        <short_description>Social Media Aoop</short_description>
+        <short_description>Use this item to submit your post!</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state>published</state>
@@ -89,14 +91,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-01-25 20:50:24</sys_created_on>
         <sys_id>1ad24cab8326321014da99c0deaad398</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Social Media Aoop</sys_name>
-        <sys_package/>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>New Social Media Post</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
         <sys_update_name>sc_cat_item_producer_1ad24cab8326321014da99c0deaad398</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-01-25 21:03:19</sys_updated_on>
+        <sys_updated_on>2026-02-06 20:39:32</sys_updated_on>
         <table_name>x_980413_social_0_post</table_name>
         <taxonomy_topic/>
         <template/>
@@ -104,7 +106,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>1</version>
+        <version>7</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
