@@ -54,7 +54,7 @@ Isso garante que cada perfil visualize apenas o que é permitido, seguindo boas 
 
 - Atividade 1 - [Criação da aplicação e das tabelas](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%201.md)  
 - Atividade 2 - [Segurança e acessos](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%202.md)
-- Atividade 3  
+- Atividade 3 - [Flow Designer](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%203.md) 
 - Atividade 4  
 - Atividade 5  
 - Atividade extra  
