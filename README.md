@@ -1,13 +1,6 @@
 ## 🦈 Desafio Shark Evolution – Aoop / NTT Data
 
-Este desafio teve como objetivo desenvolver uma aplicação escopada no ServiceNow para gestão de mídias sociais, permitindo que o time de Marketing registre e acompanhe postagens nos perfis da marca.
-
-Além disso, a atividade avaliou conhecimentos práticos na plataforma ServiceNow, incluindo:  
-- Configuração de aplicações
-- Modelagem de dados
-- Controle de acesso (Roles e ACLs)
-- Conceitos básicos de ITSM
-- Desenvolvimento low-code/no-code
+Este desafio teve como objetivo desenvolver uma aplicação escopada no ServiceNow para gestão de mídias sociais, permitindo que o time de Marketing registre, acompanhe e controle o ciclo de vida das postagens de clientes, garantindo governança, segurança e automação do processo.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -20,35 +13,18 @@ Além disso, a atividade avaliou conhecimentos práticos na plataforma ServiceNo
 
 ## 📦 Funcionalidades Implementadas
 
-- Criação de aplicação customizada no ServiceNow
-- Modelagem de tabelas (dados principais do negócio)
-- Criação e configuração de formulários
-- Configuração de menus e módulos da aplicação
-- Criação de usuários e grupos
-- Definição de **roles** e permissões de acesso
-- Separação de visões por perfil (ex: administrador x analista)
-- Testes de acesso utilizando **Impersonate User**
+A atividade avaliou conhecimentos práticos na plataforma ServiceNow, incluindo:  
 
-## 👥 Perfis de Usuário
-
-### 🔑 Administrador
-- Acesso total à aplicação
-- Criação, edição e visualização de todos os registros
-- Gerenciamento de usuários, grupos e roles
-
-### 🧑‍💻 Analista
-- Acesso restrito à aplicação
-- Visualização de listas permitidas
-- Criação de novos registros conforme regras do desafio
-
-## 🔐 Controle de Acesso
-
-O controle de acesso foi implementado utilizando:
-- **Roles customizadas**
-- Configuração de acesso aos módulos do menu
-- Restrições de visualização e criação de registros
-
-Isso garante que cada perfil visualize apenas o que é permitido, seguindo boas práticas de segurança.
+- **Desenvolvimento e configuração de aplicação:**  
+  Criação de um ambiente isolado (escopado) no *App Engine Studio* para resolver uma necessidade de negócio.
+- **Modelagem de dados e formulários:**  
+  Criação da tabela *Channel* do zero (from scratch) com campos específicos, e da tabela *Post* estendendo da tabela *Task*, herdando funcionalidades padrão e adicionando campos personalizados para a gestão dos posts, assim como a configuração de formulários e campos personalizados.
+- **Segurança e governança com controle de acesso (Roles e ACLs):**  
+  Implementação de controle de acesso baseado em papéis RBAC (Role-Based Access Control) onde definimos quem pode visualizar ou editar dados através da criação das roles `social_analyst` e `social_manager`, além de ACL´s com condições específicas e user criteria para restringir o acesso a visibilidade do menu "New Post" e ao item de catálogo no Employee Center.
+- **Conceitos básicos de ITSM:**  
+  Tratando cada post como uma tarefa que possui ciclo de vida com estados: Draft, Published, Follow-up e Closed.
+- **Desenvolvimento low-code/no-code:**  
+  Com a utilização do UI Policies tornando o campo "Channel" obrigatório e ocultando/mostrando o campo "End follow-up" com base no estado do post, assim como foi configurado visualmente o layout do portal para os utilizadores finais.
 
 ## 💡Explicação de cada etapa do desafio
 
@@ -61,21 +37,15 @@ Isso garante que cada perfil visualize apenas o que é permitido, seguindo boas 
 ## ▶️ Demonstração
 
 📹 Um vídeo demonstrativo foi gravado apresentando:
-
 - Estrutura da aplicação
 - Navegação pelos módulos
 - Testes de permissões com diferentes usuários
 - Funcionamento geral da solução
-
 > O vídeo faz parte da entrega oficial do desafio.
 
 ## 🧠 Aprendizados
 
-Durante o desenvolvimento deste desafio, foi possível aprofundar conhecimentos em:
-- Estrutura e navegação da plataforma ServiceNow
-- Criação de aplicações customizadas
-- Importância do controle de acesso por perfil
-- Organização e clareza na entrega de soluções
+Em suma, o desafio demonstrou a capacidade de construirmos uma solução completa, desde a base de dados até à interface do utilizador, seguindo as melhores práticas de segurança e automação da plataforma ServiceNow.
 
 ## 🚀 Considerações Finais
 
@@ -84,5 +54,5 @@ na plataforma **ServiceNow**.
 
 Agradeço a oportunidade de participar da 3º temporada do **Shark Academy da Aoop / NTT Data** e de demonstrar meu comprometimento, esforço e vontade de aprender.
 
-✨ Desenvolvido com dedicação por **Adriana G.**
 ---
+✨ Desenvolvido com dedicação por **Adriana G.**
