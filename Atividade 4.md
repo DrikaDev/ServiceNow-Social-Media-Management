@@ -1,7 +1,17 @@
-## 📚 Atividade 4 – Catálogo de Serviços e Portal
+## 📚 Atividade 4 – Record Producer: Catálogo de Serviços e Portal
 
 Nesta atividade, criamos um **Record Producer** para permitir que os usuários submetam postagens de forma simplificada por meio do **Catálogo de Serviços**, 
-além da configuração de acesso via **Employee Center**.
+além da configuração de acesso via **Employee Center**.  
+
+> Um **Record Producer** é um item do **Catálogo de Serviços** que permite aos usuários criarem registros em uma tabela do sistema através de um formulário amigavel no portal.  
+> Ele é como uma **"ponte"** entre o usuário final e o banco de dados (a tabela administrativa).  
+
+> Sem **Record Producer**: O usuário teria que acessar a tabela diretamente, ver uma lista técnica cheia de colunas e clicar em "New".  
+> Isso exige permissões de Create no CRUD e expõe a estrutura interna do sistema.  
+> Com **Record Producer**: O usuário acessa o portal (como o Employee Center), vê um formulário limpo, com perguntas claras e um botão "Enviar".  
+
+> **O "Pulo do Gato"**: Um **Record Producer** permite que alguém crie um registro sem ter permissão de escrita/criação direta na tabela.  
+> Como o processo é mediado pelo Catálogo, o ServiceNow entende que aquela ação é legítima, mantendo a tabela protegida contra acessos diretos indesejados.
 
 ## 🔹 1. Criação do Record Producer
 
