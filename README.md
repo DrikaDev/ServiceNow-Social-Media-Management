@@ -32,7 +32,7 @@ A atividade avaliou conhecimentos práticos na plataforma ServiceNow, incluindo:
 - Atividade 2 - [Segurança e acessos](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%202.md)
 - Atividade 3 - [Flow Designer](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%203.md) 
 - Atividade 4 - [Catálogo de Serviços e Portal](https://github.com/DrikaDev/ServiceNow-Social-Media-Management/blob/main/Atividade%204.md) 
-- Atividade 5 - [Process Flow / UI Policies](https://github.com/DrikaDev/ServiceNow-Social-Media-Management/blob/main/Atividade%205.md)  
+- Atividade 5 - [Extra: Process Flow / UI Policies](https://github.com/DrikaDev/ServiceNow-Social-Media-Management/blob/main/Atividade%205.md)  
 
 ## ▶️ Demonstração
 
