@@ -25,9 +25,7 @@ Foram implementadas setas indicadoras no formulário da tabela **Post**, represe
 <img width="1113" height="221" alt="image" src="https://github.com/user-attachments/assets/9ca50426-361b-4355-a02c-ec0ae044977d" />
 
 ### 👉🏼 Em System UI / Process Flow, clica em New
-Preencher os devidos campos e ordernar eles para manterem nessa ordem:  
-<img width="1091" height="55" alt="image" src="https://github.com/user-attachments/assets/82c0cec3-b501-46a8-b4a7-aa6aaf6b82cc" />
-
+Preencher os devidos campos e ordernamos eles para manterem nessa ordem:  
 - 100 para Draft,
 - 200 para Publish,
 - 300 para Follow-up e
