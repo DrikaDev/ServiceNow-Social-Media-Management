@@ -60,7 +60,8 @@ Esse processo foi essencial para consolidar meu entendimento prático na platafo
 - Navegação pelos módulos
 - Funcionamento geral da solução
 - Testes de permissões com diferentes usuários
-- [Clique aqui para assistir](https://youtu.be/Uu2tFglIh2I)
+
+👉🏼 [Clique aqui para assistir ao vídeo completo!](https://youtu.be/Uu2tFglIh2I)
 
 ## 🧠 Aprendizados
 
@@ -77,4 +78,7 @@ Além do aprendizado técnico, reforçou minha capacidade de análise crítica, 
 Agradeço pela oportunidade de participar do programa e de demonstrar meu comprometimento, dedicação, esforço e constante vontade de evoluir na plataforma.
 
 ---
-✨ Desenvolvido com dedicação por **Adriana G.**
+
+👉🏼 Se este conteúdo lhe ajudou de alguma forma, agradeço se puder deixar uma *estrelinha*! 🌟
+
+✨ Conteúdo desenvolvido com dedicação por **Adriana G.**
