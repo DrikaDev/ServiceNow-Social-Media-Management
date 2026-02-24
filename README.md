@@ -58,9 +58,9 @@ Esse processo foi essencial para consolidar meu entendimento prático na platafo
 📹 Um vídeo demonstrativo foi gravado apresentando:
 - Estrutura da aplicação
 - Navegação pelos módulos
-- Testes de permissões com diferentes usuários
 - Funcionamento geral da solução
-- [Clique aqui para assistir](https://youtu.be/S3IP5ZRUdPs)
+- Testes de permissões com diferentes usuários
+- [Clique aqui para assistir](https://youtu.be/Uu2tFglIh2I)
 
 ## 🧠 Aprendizados
 
